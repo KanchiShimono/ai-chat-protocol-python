@@ -1,7 +1,7 @@
 from typing import Generic, List, Optional
 
 from .base import AIChatBaseModel
-from .file_param_pydantic import AIChatFileParamModel
+from .file_param_model import AIChatFileParamModel
 from .role import AIChatRole
 from .type_var import ContextT
 
